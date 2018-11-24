@@ -17,7 +17,7 @@ Number of Attributes/Columns in data: 10
 
 
 
-Attribute Information:
+# Attribute Information:
 
 Id
 
@@ -40,7 +40,7 @@ Summary - brief summary of the review
 Text - text of the review
 
 
-Objective:
+# Objective:
 
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
