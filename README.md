@@ -1,4 +1,4 @@
-# Amazon-Fine-Food-Reviews
+# Amazon-Fine-Food-Reviews (Sentiment Analysis)
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 
